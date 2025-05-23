@@ -449,15 +449,15 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/HpTPGpdr/nexus-xmd.jpg` },
+                image: { url: `https://files.catbox.moe/cctwo6.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃',
+                        newsletterJid: '120363400603971944@g.us',
+                        newsletterName: 'KAVIYA MD',
                         serverMessageId: 143
                     }
                 }
