@@ -16,16 +16,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *bmbxmd*
+*|* *DILA*
 
 > *pkdriller REPO:*
-*|* https://github.com/pkdriller/B.M.B-XMD
+*|* SOO 
 
 > *SUPPORT GROUP:*
-*|* Follow the B.M.B 🇹🇿TECH 🇹🇿 channel on https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
+*|* https://chat.whatsapp.com/FMbSSQx42UII926kAt3rvf
 *╰──────────────●●►*
 
-> *CREATED BY 🔥B.M.B-XMD🔥*
+> *CREATED BY 🔥DILA🔥*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -34,16 +34,16 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363382023564830@newsletter',
-      newsletterName: "𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿",
+      newsletterJid: '120363400603971944@g.us',
+      newsletterName: "KAVIYA MD",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: '𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿',
+title: 'KAVIYA MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/bmbxmd/B.M.B-XMD" ,
-thumbnailUrl: "https://files.catbox.moe/lph7xd.jpg" ,
+sourceUrl: "SOON" ,
+thumbnailUrl: "https://files.catbox.moe/cctwo6.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
@@ -86,11 +86,11 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 🔥B.M.B-XMD🔥 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!* 
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 🔥KAVIYA MD🔥 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!* 
 
-> *a whatsapp bot that enhance your experience with amazing features,developed by 𝙱.𝙼.𝙱-𝚇𝙼𝙳🇹🇿.*🔥
+> *a whatsapp bot that enhance your experience with amazing features,developed by DILA*🔥
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 🔥B.M.B-𝐗𝐌𝐃🔥* 
+*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 🔥KAVIYA MD🔥* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
@@ -116,15 +116,15 @@ ${readMore}
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/s7pzei.jpg` },
+            image: { url: `https://files.catbox.moe/cctwo6.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: '☇ bmbxmd suppσrt  ⃪🔥𝆺𝅥',
+                    newsletterJid: '120363400603971944@g.us',
+                    newsletterName: '☇ KAVIYA suppσrt  ⃪🔥𝆺𝅥',
                     serverMessageId: 143
                 }
             }
@@ -140,8 +140,8 @@ ${readMore}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: '☇ bmbxmd suppσrt⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterJid: '120363400603971944@g.us',
+                    newsletterName: '☇ KAVIYA MD suppσrt⃪🤖͎᪳᪳𝆺𝅥',
                     serverMessageId: 143
                 }
             }
