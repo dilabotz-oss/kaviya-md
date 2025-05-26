@@ -20,7 +20,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/QFQfWrZF/bmb-xmd.jpg` },
+                image: { url: `https://i.ibb.co/201XgZ5f/SulaMd.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -28,7 +28,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: "𝐁.𝐌.𝐁-𝐗𝐌𝐃 𝐏𝐀𝐘𝐌𝐄𝐍𝐓",
+                        newsletterName: "KAVIYA MD 𝐏𝐀𝐘𝐌𝐄𝐍𝐓",
                         serverMessageId: 143
                     }
                 }
