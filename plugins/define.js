@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃 💫*`;
+> *@ 💫 KAVIYA MD 💫*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💫𝐁.𝐌.𝐁-𝐗𝐌𝐃💫 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💫KAVIYA MD💫 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
