@@ -40,7 +40,7 @@ cmd({
     try {
         // Envoi de la réponse avec l'image et la liste de la famille
         await conn.sendMessage(m.chat, {
-            image: { url: "https://files.catbox.moe/lph7xd.jpg" },
+            image: { url: "https://i.ibb.co/201XgZ5f/SulaMd.jpg" },
             caption: familyList.trim()
         }, { quoted: mek });
     } catch (error) {
