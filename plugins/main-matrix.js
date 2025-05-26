@@ -19,7 +19,7 @@ cmd({
       'image': {
         'url': "https://files.catbox.moe/lph7xd.jpg"
       },
-      'caption': "  *⟣────────────⟢*\n    *[ • Developer: 🔥𝙱.𝙼.𝙱-𝚇𝙼𝙳🔥 ]*\n *⟣────────────•⟢*\n              \n      *⟣┈───────────────⟢*\n            🗂️ *REPOSITORY*\n       https://github.com/bmbxmd/B.M.B-XMD\n      \n      *⟣┈───────────────•*\n            🔗 *PROJECT NAME*\n           𝐁.𝐌.𝐁-𝐗𝐌𝐃 W.A BOT\n      \n      *⟣┈───────────────•*\n             👨‍💻 *FOLLOW MY GITHUB*\n     https://github.com/bmbxmd\n       \n      *⟣┈───────────────•*\n             🧮 *RELEASE DATE*\n            15 jun 2025 \n       \n      *⟣┈───────────────•*\n            👨‍💻 *PAIR CODE* \n      https://bmb-zqqf.onrender.com    \n      *⟣┈───────────────•*\n           🎀 *SUPPORT CHANNEL*\n      https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z* \n      *⟝┈───────────────⟞*\n        *⟣────────────•⟢*\n    ".trim()
+      'caption': "  *⟣────────────⟢*\n    *[ • Developer: 🔥DILA🔥 ]*\n *⟣────────────•⟢*\n              \n      *⟣┈───────────────⟢*\n            🗂️ *REPOSITORY*\n       https://github.com\n      \n      *⟣┈───────────────•*\n            🔗 *PROJECT NAME*\n           KAVIYA MD W.A BOT\n      \n      *⟣┈───────────────•*\n             👨‍💻 *FOLLOW MY GITHUB*\n     https://github.com/\n       \n      *⟣┈───────────────•*\n             🧮 *RELEASE DATE*\n            15 jun 2025 \n       \n      *⟣┈───────────────•*\n            👨‍💻 *PAIR CODE* \n      https://SOON  \n      *⟣┈───────────────•*\n           🎀 *SUPPORT CHANNEL*\n      https://whatsapp.com/SOON* \n      *⟝┈───────────────⟞*\n        *⟣────────────•⟢*\n    ".trim()
     }, {
       'quoted': _0x3bc605
     });
