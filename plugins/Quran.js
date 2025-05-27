@@ -59,7 +59,7 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://i.ibb.co/HpTPGpdr/nexus-xmd.jpg` },
+        image: { url: `https://i.ibb.co/201XgZ5f/SulaMd.jpg` },
         caption: quranSurah,
         contextInfo: {
           mentionedJid: [m.sender], 
@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363382023564830@newsletter', 
-            newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃', 
+            newsletterName: 'KAVIYA MD', 
             serverMessageId: 143
           }
         }
@@ -449,7 +449,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/HpTPGpdr/nexus-xmd.jpg` },
+                image: { url: `https://i.ibb.co/201XgZ5f/SulaMd.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -457,7 +457,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃',
+                        newsletterName: 'KAVIYA MD',
                         serverMessageId: 143
                     }
                 }
