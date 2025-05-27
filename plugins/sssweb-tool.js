@@ -31,14 +31,14 @@ async (conn, mek, m, {
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By 𝐁.𝐌.𝐁-𝐗𝐌𝐃*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By KAVIYA MD*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363352087070233@newsletter',
-          newsletterName: "𝐁.𝐌.𝐁-WEB",
+          newsletterName: "KAVIYA MD-WEB",
           serverMessageId: 143,
         },
       },
