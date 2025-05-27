@@ -21,7 +21,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃🛸┃• *👨‍💻 Creator*: 𝙱.𝙼.𝙱-𝚇𝙼𝙳
 ┃🛸┃• *🧬 Version*: 1.0.0
 ╰──────────────┈⊷
-> © KAVIYA MD`;
+> © 𝘬𝘢𝘷𝘪𝘺𝘢-𝘮𝘥  𝘸𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘣𝘰𝘵 𝘴𝘭🇱🇰"`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
