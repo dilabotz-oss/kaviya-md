@@ -63,7 +63,7 @@ cmd({
     _0x515443("Open time " + _0x29755d + " starting from now");
     setTimeout(() => {
       _0x34b3eb.groupSettingUpdate(_0x1979f2, "not_announcement");
-      _0x515443("> *NOW GROUP IS OPENED BY 𝐁.𝐌.𝐁-𝐗𝐌𝐃*");
+      _0x515443("> *NOW GROUP IS OPENED BY KAVIYA MD*");
     }, _0x57d309);
     await _0x34b3eb.sendMessage(_0x1979f2, {
       'react': {
