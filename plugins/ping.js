@@ -28,7 +28,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: '🌏KAVIYA MD🌏 ING SPEED 💯',
+                    newsletterName: '🌏> ©️ 𝘬𝘢𝘷𝘪𝘺𝘢-𝘮𝘥  𝘸𝘩𝘢𝘵𝘴𝘢𝘱𝘱 𝘣𝘰𝘵 𝘴𝘭🇱🇰" 💯',
                     serverMessageId: 143
                 }
             }
